@@ -1,3 +1,6 @@
+> [!WARNING]
+> This is not being updated anymore at all. It is now discontinued. It should still work on Windows 11 but I am not sure about older or newer versions (maybe in the future).
+
 # VSTLSIM
 A ***very simple*** traffic light simulator coded in ***C***. 
 

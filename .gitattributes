@@ -1,2 +1,4 @@
 # allows markdown files (*.md files) to show in the repo capsule
 *.md linguist-detectable
+# allows C files (*.c files) to show in the repo capsule
+*.c linguist-detectable
